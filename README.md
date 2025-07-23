@@ -1,4 +1,4 @@
-# 💬 Cointab Chat App
+# 💬 Chat App
 
 A simple full-stack chat application using **Next.js** on the frontend, **Express.js** on the backend, and **Ollama (Mistral model)** for generating AI responses.
 
